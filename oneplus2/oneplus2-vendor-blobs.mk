@@ -402,6 +402,12 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libsensor_thresh.so:/system/vendor/lib64/libsensor_thresh.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libsensor_user_cal.so:/system/vendor/lib64/libsensor_user_cal.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/sensors.ssc.so:/system/vendor/lib64/sensors.ssc.so \
+        vendor/oneplus/oneplus2/proprietary/vendor/lib/libchromaflash.so:system/vendor/lib/libchromaflash.so \
+        vendor/oneplus/oneplus2/proprietary/vendor/lib/libmmcamera_chromaflash_lib.so:system/vendor/lib/libmmcamera_chromaflash_lib.so \
+        vendor/oneplus/oneplus2/proprietary/vendor/lib/libmmcamera_optizoom_lib.so:system/vendor/lib/libmmcamera_optizoom_lib.so \
+        vendor/oneplus/oneplus2/proprietary/vendor/lib/libmmcamera_ubifocus_lib.so:system/vendor/lib/libmmcamera_ubifocus_lib.so \
+        vendor/oneplus/oneplus2/proprietary/vendor/lib/liboptizoom.so:system/vendor/lib/liboptizoom.so \
+        vendor/oneplus/oneplus2/proprietary/vendor/lib/libubifocus.so:system/vendor/lib/libubifocus.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/hw/activity_recognition.msm8994.so:/system/vendor/lib/hw/activity_recognition.msm8994.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libsensor1.so:/system/vendor/lib/libsensor1.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libsensor_reg.so:/system/vendor/lib/libsensor_reg.so \
